@@ -1,6 +1,7 @@
 <html>
     <head>
         <title>Movies</title>
+    <link href="/css/app.css"
     </head>
 
     <body>
@@ -13,6 +14,6 @@
             </div>
             @endforeach
         </div>   
-
+        <script src="/js/app.js"/>
     </body>
 </html>
